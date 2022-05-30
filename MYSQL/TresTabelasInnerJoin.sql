@@ -60,7 +60,6 @@ VALUES ("julmiara@email.com.br", "Julmiara Correa", "123@!456g78", "https://i.im
 
 -- Lista todos os Usuários
 SELECT * FROM tb_usuarios;
-
 -- Cria a tabela Produtos
 CREATE TABLE tb_produtos (
   id BIGINT NOT NULL AUTO_INCREMENT,
